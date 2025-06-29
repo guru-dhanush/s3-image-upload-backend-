@@ -110,7 +110,6 @@ All endpoints return appropriate error messages with HTTP status codes:
 - Files are stored directly in S3 (no local storage)
 - File type validation
 - Size limits enforced
-- Public-read ACL for uploaded files
 - CORS enabled
 
 ## Deployment
